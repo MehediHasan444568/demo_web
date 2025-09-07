@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas
+
 
 name= st.text_input("Input your name: ")
 father= st.text_input("Input your father name: ")
